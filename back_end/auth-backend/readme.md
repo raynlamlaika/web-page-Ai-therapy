@@ -100,3 +100,34 @@ check this web site : https://apidog.com/blog/what-are-the-components-of-an-api/
 
 
 
+
+
+
+about the database
+DBMS(the data base management system)
+For example: MySQL, PostgreSQL, SQLite, MongoDB, Redis
+Each one is a DBMS with its own features and internal structure.
+
+but over all they are tow main categories
+Relational datBases:
+    These use tables, rows, and columns — like Excel sheets.
+    Data is structured and related (hence "relational")
+    You define a schema (structure of your tables)
+    You use SQL (Structured Query Language) to interact
+   
+    MySQL, PostgreSQL, SQLite, Microsoft SQL Server, Oracle
+
+
+Non relational database:
+
+These don’t use the table format — they store data as:
+
+Documents (like JSON)
+Key-Value pairs , Graphs , Wide columns
+
+Examples: , MongoDB → document-based , Redis → key-value store , Cassandra → wide column , Neo4j → graph
+
+
+
+
+
